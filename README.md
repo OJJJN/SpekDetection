@@ -1,5 +1,7 @@
 # SpekDetection
 
+This is part of our project as the Quality Inspection Digitalization Team. Utilizing the deep learning algorithm YOLOv5, our app will help automate the identification of car specifications, mainly focusing on the outer mirror, emblem, and velg.
+
 Our Project Team Members:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
